@@ -9,7 +9,7 @@ import path from 'path';
 
 export default [
   {
-    ignores: ['dist', 'node_modules'],
+    ignores: ['dist', 'node_modules', '.storybook'],
   },
   {
     files: ['**/*.ts', '**/*.tsx'],
