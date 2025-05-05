@@ -1,6 +1,6 @@
 # React Library Components Boilerplate 
 
-Este repositorio es una template base para crear librerías en React con Hooks modernas usando TypeScript. Incluye una configuración lista para el desarrollo local, pruebas, publicación automatizada y convenciones de código profesionales.
+Este repositorio es una template base para crear librerías en React con Components modernas usando TypeScript. Incluye una configuración lista para el desarrollo local, pruebas, publicación automatizada y convenciones de código profesionales.
 
 ## ✨ Tecnologías Incluidas
 
